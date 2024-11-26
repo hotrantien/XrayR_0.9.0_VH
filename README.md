@@ -8,3 +8,5 @@
 
 ```bash
 wget -N https://raw.githubusercontent.com/hotrantien/XrayR_0.9.0_VH/main/install.sh && bash install.sh
+
+nano /etc/XrayR/config.yml
